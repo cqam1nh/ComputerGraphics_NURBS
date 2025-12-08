@@ -1,0 +1,4 @@
+input2 : Mặt phẳng (plane) 4×4
+input3 : Mặt dốc (ramp) 4×4
+input4 : Mặt yên ngựa (saddle) 4×4
+input5 : Mặt “đồi” tròn 5×5
